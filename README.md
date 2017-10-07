@@ -1,2 +1,2 @@
-# telegram_group
-A website for telegram group database
+# Telegram Group
+Telegram 群組推廣
